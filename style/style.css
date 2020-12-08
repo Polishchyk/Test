@@ -1,12 +1,5 @@
 * {margin: 0; padding: 0;}
-/*.main{
-	max-width: 900px;
-    margin: 0 auto;
-}
-.main_parent{
-	width: 100%;
-    margin: 0 auto;
-}*/
+
 .tree ul {
 	padding-top: 20px; position: relative;
 	overflow: auto;
@@ -14,11 +7,11 @@
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	display: flex;
-padding-top: 20px;
-position: relative;
-transition: all 0.5s;
--webkit-transition: all 0.5s;
--moz-transition: all 0.5s;
+        padding-top: 20px;
+        position: relative;
+        transition: all 0.5s;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
 }
 
 .tree li {
